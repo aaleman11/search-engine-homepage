@@ -59,3 +59,11 @@ li a:hover {
     transform: translate(-50%, -50%);
 
 }
+
+/*Footer Styling*/
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
