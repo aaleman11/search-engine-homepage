@@ -1,30 +1,3 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-/*li {*/
-/*    float: left;*/
-/*}*/
-
-li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    text-decoration: underline;
-}
-
-.top-bar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
 
 .top {
     float: right;
@@ -60,7 +33,18 @@ li a:hover {
 
 }
 
-/*Footer Styling*/
+/*Navbar*/
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+/*Main Content*/
+
+
+/*Footer*/
 
 footer {
     position: fixed;
